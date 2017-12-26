@@ -1,0 +1,17 @@
+{
+  "name": "maggipointbot",
+  "version": "1.0.0",
+  "description": "A bot to assit you at maggi point in our Cafeteria @ JU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "author": "Ayush Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "paypal-rest-sdk": "^1.8.1",
+    "restify": "^6.3.4",
+    "time": "^0.12.0"
+  }
+}

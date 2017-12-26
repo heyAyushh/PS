@@ -1,0 +1,58 @@
+{
+    "Maggi" : {
+
+        "Masala" : "20",
+        "Veggi Delight" : "40",
+        "Egg Bhurji": "60",
+        "Cheesy Delight":"65",
+        "Bruschetta":"70",
+        "Hot & Sour":"70",
+        "Cheesy Italiano":"90",
+        "Shahi Paneer":"100",
+        "Veg Atta":"35",
+        "Hotheads":"35",
+        "Oats":"35"
+    },
+
+
+    "Pazzta" : {
+
+        "Masala":"35",
+        "Cheese":"40",
+        "Mushroom":"40",
+        "Tomato":"35"
+    },
+
+    "Chocolates" : {
+
+        "KitKat" :{
+            "Small":"10",
+            "Medium":"20",
+            "Large":"25"
+        }
+    },
+
+    "Hot Drinks" : {
+
+        "Cuppucino":"20",
+        "Moccaccino":"20",
+        "Black Coffee":"15",
+        "Hot Chocolate":"20",
+        "Cardamom Tea":"15",
+        "Nestea Masala":"15",
+        "Soup": "15",
+        "Hot Lemon tea": "10",
+        "Latte":"20"
+    },
+
+    "Cold Drinks": {
+
+        "Ice Tea":"25",
+        "Nescafe Ice":"30",
+        "Ice Tea-Flavoured":"25",
+        "Nescafe Ice-Flavoured":"25",
+        "Nesquick":"25"
+    }
+    
+
+}
