@@ -9,6 +9,7 @@
   "author": "Ayush Chauhan",
   "license": "ISC",
   "dependencies": {
+    "apiai": "^4.0.3",
     "botbuilder": "^3.13.1",
     "paypal-rest-sdk": "^1.8.1",
     "restify": "^6.3.4",

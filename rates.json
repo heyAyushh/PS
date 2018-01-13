@@ -1,7 +1,13 @@
 {
     "Maggi" : {
 
-        "Masala" : "20",
+        {
+            "Name" : "Masala",
+            "subtitle": "Onion I Crisp Capsicum I Mushroom I Golden Corn I Paneer",
+            "text": "",
+            "image": "",
+        },
+        {
         "Veggi Delight" : "40",
         "Egg Bhurji": "60",
         "Cheesy Delight":"65",
